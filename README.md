@@ -1,2 +1,2 @@
-# spark_daily
+# Spark Daily
 Spark daily training
